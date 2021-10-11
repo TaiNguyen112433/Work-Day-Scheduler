@@ -2,7 +2,7 @@ This is a Work Day Scheduler. This allow you to plan out your entire day by the 
 
 
 Link to website: https://tainguyen112433.github.io/Work-Day-Scheduler/
-
+Deployed site: https://tainguyen112433.github.io/Work-Day-Scheduler/
 
 ![Capture](https://user-images.githubusercontent.com/87043085/135685220-065bd929-3f81-422c-8db1-dc8086690f48.PNG)
 
